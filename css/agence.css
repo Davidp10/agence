@@ -1,0 +1,151 @@
+body {
+  height: 750px;
+  }
+.nom {
+  background-color: rgba(255, 255, 255, 0.39);
+  margin-top: 6px;
+  border-radius: 35px 0px 35px 0px;
+  text-align: center;
+}
+.prenom {
+  background-color: rgba(255, 255, 255, 0.39);
+  margin-top: 6px;
+  border-radius: 0px 35px 0px 35px;
+  text-align: center;
+}
+.choix{
+  margin-top: 16px;
+  background-color: rgba(255, 255, 255, 0.39);
+}
+.pers{
+  border-radius: 0px 35px 0px 35px;
+  text-align: center;
+  margin-top: 6px;
+  background-color: rgba(255, 255, 255, 0.39);
+}
+td{
+  color: #f9c61d;
+  text-shadow: black;
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+.bouton{
+  border-radius: 10px 10px 10px 10px;
+  height: 30px;
+  width: 60px;
+  box-shadow: -1px 1px 2px;
+  background-color: rgba(255, 255, 255, 0.39);
+}
+.bouton2{
+    border-radius: 10px 10px 10px 10px;
+    height: 30px;
+    width: 220px;
+    box-shadow: -1px 1px 2px;
+    background-color: rgba(255, 255, 255, 0.39);
+    text-align: center;
+}
+.bouton3{
+    border-radius: 10px 10px 10px 10px;
+    height: 30px;
+    width: 330px;
+    box-shadow: -1px 1px 2px;
+    background-color: rgba(255, 255, 255, 0.39);
+    text-align: center;
+}
+.submit{
+  border-radius: 10px 10px 10px 10px;
+  background: linear-gradient(to bottom right, #a1dbd7, white);
+  margin-left: 269px;
+  position: relative;
+  top: -74px;
+}
+.submit1{
+  border-radius: 10px 10px 10px 10px;
+  background: linear-gradient(to bottom right, #a1dbd7, white);
+  margin-left: 256px;
+  position: relative;
+  top: 4px;
+}
+.submit2{
+  border-radius: 10px 10px 10px 10px;
+  background: linear-gradient(to bottom right, #a1dbd7, white);
+  margin-left: 269px;
+  position: relative;
+  top: -74px;
+}
+span{
+  font-family: 'Pacifico', cursive;
+  color: #f9c61d;
+  font-size: 25px;
+}
+span2{
+  font-family: 'Pacifico', cursive;
+  color: #c07373;
+  font-size: 17px;
+}
+
+#photo {
+  background-image: url(../img/clik1.jpg);
+  height: 750px;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: end;
+
+}
+#photo1 {
+  background-image: url(../img/clik2.jpg);
+  height: 750px;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: end;
+}
+#photo2 {
+  background-image: url(../img/clik3.jpg);
+  height: 750px;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: end;
+}
+#form {
+  width: 415px;
+  height: 270px;
+  background-color: #bdbdbd;
+  border-radius: 30px;
+  align-self: end;
+  margin-bottom: 247px;
+  margin-right: 122px;
+  background: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1));
+}
+.carregr2{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.carregr1{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.globale{
+  height: 887px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  color: #f4d105;
+  font-size: 25px;
+  }
+a{
+  padding: 6px;
+  border: 1px solid #fff;
+  text-decoration: none;
+  border-radius: 7px 7px 7px 7px;
+  background: linear-gradient(to bottom right, #a1dbd7, white);
+  color: #d88c68;
+  box-shadow: 3px 3px #605656;
+}
